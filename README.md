@@ -1,1 +1,1 @@
-# wikibot
+#Covid19 satus bot
